@@ -12,7 +12,8 @@ espacio de nombres HelloNameSpace
 
             {
 
-                  Console.WriteLine ("Hola Mundo!");
+                   Consola . WriteLine  ( "Hola Mundo!" );
+                   Console.WriteLine ("Hola Mundo!");
 
             }
 
